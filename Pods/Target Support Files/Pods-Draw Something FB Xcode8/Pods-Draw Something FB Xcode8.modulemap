@@ -1,0 +1,6 @@
+framework module Pods_Draw_Something_FB_Xcode8 {
+  umbrella header "Pods-Draw Something FB Xcode8-umbrella.h"
+
+  export *
+  module * { export * }
+}
